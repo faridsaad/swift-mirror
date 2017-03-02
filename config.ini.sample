@@ -1,0 +1,13 @@
+[source]
+authurl=
+username=
+password=
+tenant_name=
+region=
+
+[destination]
+authurl=
+username=
+password=
+tenant_name=
+region=
